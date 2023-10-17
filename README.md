@@ -1,5 +1,8 @@
 # MICCAI2023-
-百度网盘：
+百度网盘：链接：https://pan.baidu.com/s/1K5z5x3V98QnmhwskscJh4Q 
+提取码：gnhe 
+--来自百度网盘超级会员V5的分享
+
 Part I: Machine learning with limited supervision and machine learning – transfer learning;
 
 Part II: Machine learning – learning strategies; machine learning – explainability, bias, and uncertainty;
